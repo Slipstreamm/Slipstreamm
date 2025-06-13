@@ -51,4 +51,8 @@ https://slipstreamm.dev
 
 ---
 
+### contact:
+- email: [me@slipstreamm.dev](mailto:me@slipstreamm.dev)
+- discord: `slipstream_.`
+
 if you use my stuff or want to contribute, cool. if not, that's cool too.
