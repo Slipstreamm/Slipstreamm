@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 stuff i work with:
-- languages: `python`, `javascript`, `golang`
+- languages: `python`, `javascript`, `golang`, `dart`
 - tools: `llms`, `flutter`, `git`
 - os: `linux`, `windows`
 
